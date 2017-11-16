@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<widgets>
+    <CustomWidgets_productskulink type="canalweb_customwidgets/productskulink">
+        <name>Product link by sku</name>
+        <description type="desc">Creates product url from a given sku</description>
+        <parameters>
+            <sku>
+                <label>Product's SKU</label>
+                <visible>1</visible>
+                <required>1</required>
+                <type>text</type>
+            </sku>
+            <label translate="label">
+                <label>Link text (default is product's name)</label>
+                <visible>1</visible>
+                <required>0</required>
+                <type>text</type>
+            </label>
+        </parameters>
+    </CustomWidgets_productskulink>
+</widgets>

@@ -1,0 +1,14 @@
+{
+    "name": "canal-web/magento_customwidgets",
+    "type": "magento-module",
+    "description": "Collection of handy widgets for Magento 1",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Deborah Jean",
+            "email":"deborah@canal-web.fr"
+        }
+    ]
+}

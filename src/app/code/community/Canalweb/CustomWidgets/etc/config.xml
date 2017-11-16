@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Canalweb_CustomWidgets>
+            <version>0.1.0</version>
+        </Canalweb_CustomWidgets>
+    </modules>
+    <global>
+        <blocks>
+            <canalweb_customwidgets>
+                <class>Canalweb_CustomWidgets_Block</class>
+            </canalweb_customwidgets>
+        </blocks>
+        <helpers>
+            <canalweb_customwidgets>
+                <class>Canalweb_CustomWidgets_Helper</class>
+            </canalweb_customwidgets>
+        </helpers>
+    </global>
+</config>

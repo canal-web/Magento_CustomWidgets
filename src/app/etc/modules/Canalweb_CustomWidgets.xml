@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Canalweb_CustomWidgets>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Canalweb_CustomWidgets>
+    </modules>
+</config>
